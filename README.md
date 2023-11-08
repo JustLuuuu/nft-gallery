@@ -1,6 +1,6 @@
 # NFT Explorer for Kusama & Polkadot & Substrate Ecosystem
 ## Opensea for Polkadot, NFT paraverse of parachains, built as public good.
-![](https://github.com/kodadot/kodadot-presskit/blob/main/v3/KODA_v3.png?raw=true)
+![](https://raw.githubusercontent.com/kodadot/kodadot-presskit/main/pre-v4/png/KodalightV4.png)
 
 # Contributing
 #### Is this your first time contributing? Set up your local environment [here](FIRST_TIME.md)
